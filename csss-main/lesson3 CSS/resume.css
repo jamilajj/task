@@ -1,0 +1,25 @@
+*{
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.picture{
+    width: 80px;
+    float: right;
+}
+hr{
+    display: block;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 2px solid green;
+}
+
+ 
+
+ 
+.elaqe{
+    display: inline;
+}
+.header{
+    text-align: center
+}
